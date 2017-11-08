@@ -1,5 +1,6 @@
-# kaggle_state_of_ds_ml_2017
-Project to analyze kaggle survey data on state of data science and machine learning in 2017
+# recommendation_engine_for_ds_ml_skills
+
+Project to analyze kaggle survey data on state of data science and machine learning in 2017 and develop a recommendation engine
 
 Kaggle Report:
 https://www.kaggle.com/surveys/2017
